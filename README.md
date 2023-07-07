@@ -56,3 +56,8 @@ our solutions to the Neetcode 150
 50. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)
 51. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)
 52. [Reorder List](https://leetcode.com/problems/reorder-list)
+53. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
+54. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)
+55. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)
+56. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)
+57. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
